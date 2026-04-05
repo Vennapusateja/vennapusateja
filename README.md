@@ -13,11 +13,11 @@ Strong in **DSA, OOP, and backend logic**, I focus on writing maintainable code 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vennapusateja&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://streak-stats.demolab.com?user=Vennapusateja&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=Vennapusateja&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vennapusateja&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vennapusateja&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vennapusateja&theme=tokyonight" />
 
 ---
 
